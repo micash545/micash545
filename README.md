@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Micash's GitHub stats](https://github-readme-stats-five-xi-83.vercel.app/api?username=micash545&theme=radical)](https://bit.ly/3MUKCBd)
+
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://bit.ly/3MUKCBd)
