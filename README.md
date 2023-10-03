@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 [![Micash's GitHub stats](https://github-readme-stats-five-xi-83.vercel.app/api?username=micash545&theme=radical)](https://bit.ly/3MUKCBd)
 
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://bit.ly/3MUKCBd)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micash545/micash545/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/micash545/micash545/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/micash545/micash545/snake/github-contribution-grid-snake.svg" />
+</picture>
