@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Micash's GitHub stats](https://github-readme-stats-alpha-woad-43.vercel.app/api?username=micash545&theme=radical)](https://bit.ly/3MUKCBd)
+[![Micash's GitHub stats](https://github-readme-stats-beta-lilac-89.vercel.app//api?username=micash545&theme=radical)](https://bit.ly/3MUKCBd)
 
-[![Language stats](https://github-readme-stats-alpha-woad-43.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://bit.ly/3MUKCBd)
+[![Language stats](https://github-readme-stats-beta-lilac-89.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://bit.ly/3MUKCBd)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micash545/micash545/snake/github-contribution-grid-snake-dark.svg" />
